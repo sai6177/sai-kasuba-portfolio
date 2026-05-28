@@ -1,74 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sai Kasuba | Mechanical Engineering Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sai Portfolio</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 22px;
+      color: #555;
+    }
+  </style>
 </head>
+
 <body>
 
-  <nav>
-    <a href="#projects">Projects</a>
-    <a href="resume.pdf">Resume</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
-  </nav>
-
-  <header>
-    <h2>Mechanical Engineering Portfolio</h2>
-    <h1>SAI KASUBA</h1>
-  </header>
-
-  <section id="projects">
-    <h1>PROJECTS</h1>
-    <p>Scroll and click image to learn more!</p>
-
-    <div class="project-grid">
-      <a class="project-card" href="project1.html">
-        <img src="images/project1.jpg" alt="Project 1">
-        <h3>Automated NCM Cart Design</h3>
-        <p>Tesla Manufacturing / Automation</p>
-      </a>
-
-      <a class="project-card" href="project2.html">
-        <img src="images/project2.jpg" alt="Project 2">
-        <h3>Glue Dispenser Assembly Improvement</h3>
-        <p>Process Engineering</p>
-      </a>
-
-      <a class="project-card" href="project3.html">
-        <img src="images/project3.jpg" alt="Project 3">
-        <h3>FDS Robot EOAT Sensor Recovery</h3>
-        <p>Root Cause / Automation</p>
-      </a>
-
-      <a class="project-card" href="project4.html">
-        <img src="images/project4.jpg" alt="Project 4">
-        <h3>Cold Plate Plasma Cleaning Validation</h3>
-        <p>Manufacturing Quality</p>
-      </a>
-    </div>
-  </section>
-
-  <section id="about">
-    <h1>ABOUT</h1>
-    <p>
-      I am a Mechanical Engineering professional with experience in manufacturing,
-      process improvement, automation troubleshooting, root cause analysis, and
-      design-for-manufacturing projects.
-    </p>
-  </section>
-
-  <section id="contact">
-    <h1>CONTACT</h1>
-    <p>Email: your.email@example.com</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
-  </section>
-
-  <footer>
-    <p>© Sai Kasuba 2026. All rights reserved.</p>
-  </footer>
+  <h1>Sai Kasuba</h1>
+  <p>Mechanical Engineering Portfolio</p>
 
 </body>
 </html>
